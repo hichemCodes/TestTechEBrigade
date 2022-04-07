@@ -1,0 +1,7 @@
+Bonjour,
+
+Pour exécuter le programme vous devez disposer d'un compilateur PHP
+
+Pour modifier le montant il suffit juste de modifier le premier paramètre de la fonction getBankNoteResult 
+
+Merci !
